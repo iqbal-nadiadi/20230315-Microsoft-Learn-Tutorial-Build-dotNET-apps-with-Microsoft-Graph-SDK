@@ -1,7 +1,25 @@
-# 20230315-Microsoft-Learn-Tutorial-Build-dotNET-apps-with-Microsoft-Graph-SDK
-20230315 [Microsoft Learn Tutorial] Build dotNET apps with Microsoft Graph SDK
+# Project name: [Microsoft Learn Tutorial] Build dotNET apps with Microsoft Graph SDK
 
-# How to run the completed project
+## [MICROSOFT LEARN SOURCE]
+- Using Microsoft Graph Developer Tool:  https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad&source=docs
+
+- Build a sample app that connects to Microsoft 365 and calls the Microsoft Graph API:  https://developer.microsoft.com/en-us/graph/quick-start?code=0.AS8AuhNna9LwwEe1vKCPK1fYJUlfR1jC_qZOg9x1EEvAbPMvAKo.AgABAAIAAAD--DLA3VO7QrddgJg7WevrAgDs_wUA9P9lJGhhSZoUdmWJEUVj_cwMXfuWyouHg76grW1jjriD5qct_7_i69_gIxAlVDj7ntK0c2RYiYAVudjO4tmgPC0n0FEm2v0cNR2EVqpvJuZV2SfiA0pQ5Zaf5tbSLnTXqRbdbUqZRH_YPLYk5RNsilcAo8eg6fGgDyVAclY0OxHHxeKWGWasvkvHP5sUnxfO6oHdlPS31KtuG9a1T9X9TbS5f6kyPig_zqmNrJd9UOGL_4BNSoQQ_XCXaDbnJ0-QRrMLsKqZlf_pnkCIwrkF9xNo8_5jADZ8INar45HpjaYR3mII3N9YIh7kJYGKelDIpne268zgO7f7GvlxdK7tXuOa9JjAUhauTHzcCCnuwakNWHnINEhEA-XA7kg6ISysPIOwZIGC_cIu_iBhB6eq9g1rUOVd1vmJkGXRht9cBuhwLL6ctSMmqb0TJKs5Yj00Py-rnCwxsbl_9jB0CinL15o6wTtf5ObaZf7qimYN_9fmASicjwbLGt6xj0Y5KsNmU-bK2WgxIaNsF1BbT1RUOQa-AzCsQ738fL0HQDMgGuFWLmC2PodxnwI_QxubC5gk4YrzlzEhcpsI8FC5jb5_TH4JV89h_QeHF18fi1MuXtCSanRLxmETPUIjSFVdiBoLOCP96gxWZmRbzlcLNP18xxt74xdSj2lDQhI&state=option-dotnet&session_state=63f0d83b-5bdf-44df-b92f-f5515179d788
+
+- Code submission for use with M365 Developer Account Client ID AdeleV@v3bg0.onmicrosoft.com
+Used to automatically register a new application in the Microsoft Application Registration portal and embed the client ID (also known as the app ID) into the code sample.
+
+# Summary: How to run the completed project
+- Please read the README.md on how to run the completed project. Thank you folks in the time permitted.
+Build and run the sample
+- NOTE: In your command-line interface (CLI), navigate to the project directory and run the following commands.
+In your command-line interface (CLI), navigate to the project directory and run the following commands.
+```Shell
+dotnet restore
+dotnet build
+dotnet run
+```
+
+# Detailed: How to run the completed project
 
 ## Prerequisites
 
